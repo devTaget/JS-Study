@@ -1,0 +1,23 @@
+body{
+    font-family: 'Gamja Flower', cursive;
+}
+table{
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+    width: 370px;
+}
+
+
+td{
+    border: 1px solid;
+}
+thead{
+    background-color: #ffff0052;
+}
+
+fieldset{
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;
+}
